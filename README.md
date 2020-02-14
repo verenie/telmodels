@@ -8,5 +8,5 @@ classification layer and retraining all layers with the small operational datase
 final layer and only retraining the final layer, thus examining maximum feature transfer.
 3. Models ending with <b>b</b> represent models that were initialized randomly and trained on the small operational dataset without
 transfer learning.
-4. Additional model <resnet152ACNTf0.pt> was trained to access random fold performance on accuracy as a side experiment.
+4. Additional model <i>resnet152ACNTf0.pt</i> was trained to access random fold performance on accuracy as a side experiment.
 
